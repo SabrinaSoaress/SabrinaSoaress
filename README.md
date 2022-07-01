@@ -1,5 +1,5 @@
 ## ✨Hello!✨
-<p>-📚 I’m currently learning JavaScript and language C.</p>
+<p>-📚 I’m currently learning REACT.</p>
 
 <p>-💻 Front-End Developer. </p>
 
