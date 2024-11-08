@@ -22,7 +22,7 @@
 <div style="display: inline_block">
   <img align="left" height="50" width="50" src="https://github.com/SabrinaSoaress/SabrinaSoaress/assets/92693817/8bb57585-e542-44f2-a3a3-ee3158c0b390">
   <img align="left" height="50" width="50" src="https://github.com/user-attachments/assets/3f7e5071-3c6d-4247-a0af-bbf31b762335">
-  <img align="left" height="50" width="50" src="https://github.com/SabrinaSoaress/SabrinaSoaress/assets/92693817/fce864b6-2ce0-4c64-9a23-9d2314e28d0d">
+  <img align="left" height="50" width="50" src="https://github.com/user-attachments/assets/f9a51ac6-1123-4af8-99d0-35f8136f92c8">
 </div> <br><br>
 
 ## Main skills:
