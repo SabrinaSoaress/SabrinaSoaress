@@ -1,18 +1,25 @@
 <img align="center" width=100% bottom=50px src="https://github.com/SabrinaSoaress/SabrinaSoaress/assets/92693817/1a1d7af4-0e82-4160-90a5-746031ad78d2"/>
  
-## Contact 
+## Contact📱 
 
-<a  href="https://www.linkedin.com/in/sabrina-soares-80602a22b/" target=_blank>
-  <img align="center"  height="30" width="30" src="https://github.com/SabrinaSoaress/SabrinaSoaress/assets/92693817/e1e56aa3-33b2-446e-b7db-f27d926e930c">
-</a>
+<div style="display: inline_block">
+  <a  href="https://www.linkedin.com/in/sabrina-soares-80602a22b/" target=_blank>
+    <img align="center"  height="30" width="30" src="https://github.com/SabrinaSoaress/SabrinaSoaress/assets/92693817/e1e56aa3-33b2-446e-b7db-f27d926e930c">
+  </a>
+  <a href="mailto:sabrinasoaress.silva@gmail.com">
+    <img align="center"  height="30" width="30" src="https://github.com/user-attachments/assets/095d48db-f7c8-4caf-a038-6f02a0bde66d">
+  </a>
+</div>
 
 ## ✨Hello!✨
-- 👩‍🎓 Graduated in **Systems Analysis and Development**
-- 👩‍💻 I am currently **Intern in Front End Development** at Fundação Banco do Brasil.
+- 👩🏻‍💻 **Front End Developer**;
+- 👩🏻‍🎓 Graduated in **Systems Analysis and Development**;
+- 👩🏻‍💻 2 years of experience as a Front End Developer at **Fundação Banco do Brasil**;
+- 👩🏻‍💻 I am currently specializing and doing freelance work.
   
 ##  I'm learning about:
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="left" height="50" width="50" src="https://github.com/SabrinaSoaress/SabrinaSoaress/assets/92693817/8bb57585-e542-44f2-a3a3-ee3158c0b390">
   <img align="left" height="50" width="50" src="https://github.com/user-attachments/assets/3f7e5071-3c6d-4247-a0af-bbf31b762335">
   <img align="left" height="50" width="50" src="https://github.com/SabrinaSoaress/SabrinaSoaress/assets/92693817/fce864b6-2ce0-4c64-9a23-9d2314e28d0d">
@@ -33,16 +40,19 @@
   <img align="left" height="50" width="50" src="https://github.com/user-attachments/assets/ac2b8e29-8315-459e-9f84-a152176af5b5">
   <img align="left" height="50" width="50" src="https://github.com/user-attachments/assets/ac789cae-382f-427c-80c7-21d3a13cc583">
   <img align="left" height="50" width="50" src="https://github.com/user-attachments/assets/fc7ea399-da7e-4177-b0cb-b7ae121522b1">
-
-</div><br><br>
+</div><br><br><br>
 
 ## 📊 Statistics
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SabrinaSoaress&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SabrinaSoaress&hide=Html&theme=dracula) |
 | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SabrinaSoaress&theme=dracula) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sabrinasoaress&theme=dracula&border_radius=4.6)](https://git.io/streak-stats) |
-| :-: | :-: |
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SabrinaSoaress&theme=dracula) 
+
+## Profile Visits 🔎 <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/SabrinaSoaress/count.svg" />
+ </p>
 
 <br>
 
