@@ -46,9 +46,6 @@
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SabrinaSoaress&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SabrinaSoaress&hide=Html&theme=dracula) |
 | :-: | :-: |
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SabrinaSoaress&theme=dracula) 
-
 ## Profile Visits 🔎 <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/SabrinaSoaress/count.svg" />
