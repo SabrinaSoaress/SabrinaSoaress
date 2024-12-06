@@ -1,16 +1,3 @@
-<img align="center" width=100% bottom=50px src="https://github.com/SabrinaSoaress/SabrinaSoaress/assets/92693817/1a1d7af4-0e82-4160-90a5-746031ad78d2"/>
- 
-## Contact📱 
-
-<div style="display: inline_block">
-  <a  href="https://www.linkedin.com/in/sabrina-soares-80602a22b/" target=_blank>
-    <img align="center"  height="30" width="30" src="https://github.com/SabrinaSoaress/SabrinaSoaress/assets/92693817/e1e56aa3-33b2-446e-b7db-f27d926e930c">
-  </a>
-  <a href="mailto:sabrinasoaress.silva@gmail.com">
-    <img align="center"  height="30" width="30" src="https://github.com/user-attachments/assets/095d48db-f7c8-4caf-a038-6f02a0bde66d">
-  </a>
-</div>
-
 ## ✨Hello!✨
 - 👩🏻‍💻 **Front End Developer**;
 - 👩🏻‍🎓 Graduated in **Systems Analysis and Development**;
@@ -41,6 +28,17 @@
   <img align="left" height="50" width="50" src="https://github.com/user-attachments/assets/ac789cae-382f-427c-80c7-21d3a13cc583">
   <img align="left" height="50" width="50" src="https://github.com/user-attachments/assets/fc7ea399-da7e-4177-b0cb-b7ae121522b1">
 </div><br><br><br>
+
+## Contact📱 
+
+<div style="display: inline_block">
+  <a  href="https://www.linkedin.com/in/sabrina-soares-80602a22b/" target=_blank>
+    <img align="center"  height="30" width="30" src="https://github.com/SabrinaSoaress/SabrinaSoaress/assets/92693817/e1e56aa3-33b2-446e-b7db-f27d926e930c">
+  </a>
+  <a href="mailto:sabrinasoaress.silva@gmail.com">
+    <img align="center"  height="30" width="30" src="https://github.com/user-attachments/assets/095d48db-f7c8-4caf-a038-6f02a0bde66d">
+  </a>
+</div>
 
 ## 📊 Statistics
 
