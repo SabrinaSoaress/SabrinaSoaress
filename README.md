@@ -1,7 +1,7 @@
 ## ✨Hello!✨
 - 👩🏻‍💻 **Front End Developer**;
 - 👩🏻‍🎓 Graduated in **Systems Analysis and Development**;
-- 👩🏻‍💻 2 years of experience as a Front End Developer at **Fundação Banco do Brasil**;
+- 👩🏻‍💻 2 years of experience as a Developer at **Fundação Banco do Brasil**;
 - 👩🏻‍💻 I am currently specializing and doing freelance work.
   
 ##  I'm learning about:
